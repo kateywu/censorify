@@ -1,0 +1,19 @@
+{
+   "author": "Kate Wu",
+   "name": "censorify",
+   "version": "0.1.1",
+   "description": "Censors words out of text",
+   "main": "censortext",
+   "respository": {
+		"type": "git",
+		"url": "http://github.com/kateywu/nodejs/censorify"
+   },
+   "keywords":[
+	"censor",
+	"words"
+   ],
+   "dependencies": {},
+   "engines": {
+       "node": "*"
+   }
+ }
